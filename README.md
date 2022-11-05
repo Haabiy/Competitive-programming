@@ -5,3 +5,4 @@
 5. https://leetcode.com/problems/create-target-array-in-the-given-order/description/
 6. https://leetcode.com/problems/decompress-run-length-encoded-list/description/
 7. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+8. https://leetcode.com/problems/number-of-good-pairs/description/
