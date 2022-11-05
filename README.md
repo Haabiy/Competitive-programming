@@ -6,3 +6,5 @@
 6. https://leetcode.com/problems/decompress-run-length-encoded-list/description/
 7. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
 8. https://leetcode.com/problems/number-of-good-pairs/description/
+9. https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/
+10. https://leetcode.com/problems/running-sum-of-1d-array/description/
