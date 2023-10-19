@@ -26,7 +26,7 @@ class Solution(object):
                 pass
         return self.s
     
-    def output(self)->str:
+    def output(self):
         if(self.counter!=0):
             for _ in range(self.counter):
                 self.result=  self.analyze()
