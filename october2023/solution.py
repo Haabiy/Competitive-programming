@@ -49,18 +49,3 @@ class Solution(object):
         if(booleantf==True and ans1==ans2):
             return True
         return False
-
-get_solution = Solution()
-x= get_solution.backspaceCompare('xywrrmp', 'xywrrmu#p')
-print(x)
-
-
-
-
-
-
-
-
-
-
-
