@@ -30,4 +30,5 @@ Constraints:
 1 <= s.length, t.length <= 200
 s and t only contain lowercase letters and '#' characters.
 ```
+URL : https://leetcode.com/problems/backspace-string-compare/description/?envType=daily-question&envId=2023-10-19
  
